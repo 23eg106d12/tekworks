@@ -1,0 +1,4 @@
+streamlit== 1.53.1
+myaql.connector.python==9.6.0
+pandas==
+
